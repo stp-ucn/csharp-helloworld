@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="ConsoleApp2/ConsoleApp2.csproj" Id="12dddfa1-5060-4e00-ac6d-afef346c3c2b" />
   <Project Path="HelloProject/HelloProject.csproj" />
+  <Project Path="HelpCode/HelpCode.csproj" Id="c52078c9-b335-4f0b-baa5-23f777feaa79" />
 </Solution>
