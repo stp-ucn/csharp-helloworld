@@ -21,7 +21,8 @@
             //string? thisStudent = Id + ", " + FirstName + " " + LastName;
 
             //string interpolation
-            string? thisStudent = $"{Id}: {FirstName} {LastName}";
+            // use double { or } to escape curly braces
+            string? thisStudent = $"{Id}: {{}} {FirstName} {LastName}";
             return thisStudent;
         }
     }
