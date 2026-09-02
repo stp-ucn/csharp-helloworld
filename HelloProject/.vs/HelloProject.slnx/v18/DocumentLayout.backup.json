@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\jole\\Documents\\GitHub\\csharp-helloworld\\HelloProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AE6DBC2-62DB-9AB7-570A-DBFD090F53C5}|HelloProject\\HelloProject.csproj|c:\\users\\jole\\documents\\github\\csharp-helloworld\\helloproject\\helloproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AE6DBC2-62DB-9AB7-570A-DBFD090F53C5}|HelloProject\\HelloProject.csproj|solutionrelative:helloproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AE6DBC2-62DB-9AB7-570A-DBFD090F53C5}|HelloProject\\HelloProject.csproj|c:\\users\\jole\\documents\\github\\csharp-helloworld\\helloproject\\helloproject\\helloproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4AE6DBC2-62DB-9AB7-570A-DBFD090F53C5}|HelloProject\\HelloProject.csproj|solutionrelative:helloproject\\helloproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{12DDDFA1-5060-4E00-AC6D-AFEF346C3C2B}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\jole\\documents\\github\\csharp-helloworld\\helloproject\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12DDDFA1-5060-4E00-AC6D-AFEF346C3C2B}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,8 +11,8 @@
       "RelativeMoniker": "D:0:0:{C52078C9-B335-4F0B-BAA5-23F777FEAA79}|HelpCode\\HelpCode.csproj|solutionrelative:helpcode\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C52078C9-B335-4F0B-BAA5-23F777FEAA79}|HelpCode\\HelpCode.csproj|c:\\users\\jole\\documents\\github\\csharp-helloworld\\helloproject\\helpcode\\data\\studentaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C52078C9-B335-4F0B-BAA5-23F777FEAA79}|HelpCode\\HelpCode.csproj|solutionrelative:helpcode\\data\\studentaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AE6DBC2-62DB-9AB7-570A-DBFD090F53C5}|HelloProject\\HelloProject.csproj|c:\\users\\jole\\documents\\github\\csharp-helloworld\\helloproject\\helloproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE6DBC2-62DB-9AB7-570A-DBFD090F53C5}|HelloProject\\HelloProject.csproj|solutionrelative:helloproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C52078C9-B335-4F0B-BAA5-23F777FEAA79}|HelpCode\\HelpCode.csproj|c:\\users\\jole\\documents\\github\\csharp-helloworld\\helloproject\\helpcode\\helpcode.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -29,6 +21,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{C52078C9-B335-4F0B-BAA5-23F777FEAA79}|HelpCode\\HelpCode.csproj|c:\\users\\jole\\documents\\github\\csharp-helloworld\\helloproject\\helpcode\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C52078C9-B335-4F0B-BAA5-23F777FEAA79}|HelpCode\\HelpCode.csproj|solutionrelative:helpcode\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52078C9-B335-4F0B-BAA5-23F777FEAA79}|HelpCode\\HelpCode.csproj|c:\\users\\jole\\documents\\github\\csharp-helloworld\\helloproject\\helpcode\\data\\studentaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52078C9-B335-4F0B-BAA5-23F777FEAA79}|HelpCode\\HelpCode.csproj|solutionrelative:helpcode\\data\\studentaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE6DBC2-62DB-9AB7-570A-DBFD090F53C5}|HelloProject\\HelloProject.csproj|c:\\users\\jole\\documents\\github\\csharp-helloworld\\helloproject\\helloproject\\helloproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4AE6DBC2-62DB-9AB7-570A-DBFD090F53C5}|HelloProject\\HelloProject.csproj|solutionrelative:helloproject\\helloproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "HelloProject.csproj",
               "DocumentMoniker": "C:\\Users\\jole\\Documents\\GitHub\\csharp-helloworld\\HelloProject\\HelloProject\\HelloProject.csproj",
               "RelativeDocumentMoniker": "HelloProject\\HelloProject.csproj",
@@ -50,36 +50,24 @@
               "RelativeToolTip": "HelloProject\\HelloProject.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-01T19:46:36.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-01T19:46:36.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "StudentAccess.cs",
               "DocumentMoniker": "C:\\Users\\jole\\Documents\\GitHub\\csharp-helloworld\\HelloProject\\HelpCode\\Data\\StudentAccess.cs",
               "RelativeDocumentMoniker": "HelpCode\\Data\\StudentAccess.cs",
               "ToolTip": "C:\\Users\\jole\\Documents\\GitHub\\csharp-helloworld\\HelloProject\\HelpCode\\Data\\StudentAccess.cs",
               "RelativeToolTip": "HelpCode\\Data\\StudentAccess.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T19:41:01.376Z"
+              "WhenOpened": "2026-09-01T19:41:01.376Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\jole\\Documents\\GitHub\\csharp-helloworld\\HelloProject\\HelpCode\\Model\\Student.cs",
-              "RelativeDocumentMoniker": "HelpCode\\Model\\Student.cs",
-              "ToolTip": "C:\\Users\\jole\\Documents\\GitHub\\csharp-helloworld\\HelloProject\\HelpCode\\Model\\Student.cs",
-              "RelativeToolTip": "HelpCode\\Model\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T19:35:12.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "HelpCode",
               "DocumentMoniker": "C:\\Users\\jole\\Documents\\GitHub\\csharp-helloworld\\HelloProject\\HelpCode\\HelpCode.csproj",
               "RelativeDocumentMoniker": "HelpCode\\HelpCode.csproj",
@@ -91,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\jole\\Documents\\GitHub\\csharp-helloworld\\HelloProject\\HelpCode\\Class1.cs",
               "RelativeDocumentMoniker": "HelpCode\\Class1.cs",
@@ -99,32 +87,52 @@
               "RelativeToolTip": "HelpCode\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T19:33:30.122Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jole\\Documents\\GitHub\\csharp-helloworld\\HelloProject\\ConsoleApp2\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
-              "ToolTip": "C:\\Users\\jole\\Documents\\GitHub\\csharp-helloworld\\HelloProject\\ConsoleApp2\\Program.cs",
-              "RelativeToolTip": "ConsoleApp2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-01T19:23:29.154Z",
+              "WhenOpened": "2026-09-01T19:33:30.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jole\\Documents\\GitHub\\csharp-helloworld\\HelloProject\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\jole\\Documents\\GitHub\\csharp-helloworld\\HelloProject\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T19:23:29.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jole\\Documents\\GitHub\\csharp-helloworld\\HelloProject\\HelloProject\\Program.cs",
               "RelativeDocumentMoniker": "HelloProject\\Program.cs",
               "ToolTip": "C:\\Users\\jole\\Documents\\GitHub\\csharp-helloworld\\HelloProject\\HelloProject\\Program.cs",
               "RelativeToolTip": "HelloProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-31T06:47:24.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\jole\\Documents\\GitHub\\csharp-helloworld\\HelloProject\\HelpCode\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "HelpCode\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\jole\\Documents\\GitHub\\csharp-helloworld\\HelloProject\\HelpCode\\Model\\Student.cs",
+              "RelativeToolTip": "HelpCode\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T19:35:12.392Z",
               "EditorCaption": ""
             }
           ]

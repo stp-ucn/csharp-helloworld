@@ -13,6 +13,6 @@ foreach (Student student in studs)
     Console.WriteLine(student);
 }
 Console.WriteLine("Say what you think about this");
-string s = Console.ReadLine();
+string s = Console.ReadLine();  
 
 Console.WriteLine($"Thank you for saying {s}");
